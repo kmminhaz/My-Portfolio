@@ -21,10 +21,6 @@ p{
 .all-margin{
     margin: 150px;
 }
-.header-image{
-    width: 80%;
-    margin-left: 25%;
-}
 .left-border{
     border-left: 5px solid salmon;
     border-radius: 5px;
@@ -63,4 +59,11 @@ p{
 }
 .goal-background{
     background-color: rgb(255, 201, 181);
+}
+.image-size{
+    width: 80%;
+    border-radius: 25px;
+}
+.left-padding{
+    padding-left: 5%;
 }
