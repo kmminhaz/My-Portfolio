@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    padding-left: 10px;
+}
+body{
+    margin: 0px;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.full-area{
+    width: 100%;
+}
+.all-margin{
+    margin: 150px;
+}
+.header-image{
+    width: 80%;
+    margin-left: 25%;
+}
+.left-border{
+    border-left: 5px solid salmon;
+    border-radius: 5px;
+}
+.button-link{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: salmon;
+    color: white;
+    border-radius: 5px;
+}
+.gaps{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.color-orange{
+    color: orange;
+}
+.text-center{
+    text-align: center;
+}
+.three-part{
+    width: 33%;
+}
+.card-view{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.mission-background{
+    background-color: blanchedalmond;
+}
+.vission-background{
+    background-color: rgb(175, 203, 255);
+}
+.goal-background{
+    background-color: rgb(255, 201, 181);
+}
