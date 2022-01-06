@@ -70,10 +70,10 @@ p{
     background-color: blanchedalmond;
 }
 .vission-background{
-    background-color: rgb(175, 203, 255);
+    background-color: rgb(157, 248, 184);
 }
 .goal-background{
-    background-color: rgb(255, 201, 181);
+    background-color: rgb(175, 203, 255);
 }
 .image-size{
     width: 90%;
@@ -104,3 +104,14 @@ footer h1{
 .left-margin{
     margin-left: 25%;
 }
+.github-section{
+    background-image: url("images/background/bluish-background.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.linkedin-section{
+    background-image: url("images/background/bluish-background.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
