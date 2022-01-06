@@ -1,19 +1,34 @@
-h1{
-    font-family: 'Abril Fatface', cursive;
-    font-size: 50px;
-    padding-left: 10px;
-}
 body{
     margin: 0px;
 }
 p{
     font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+}
+.stylish-writing{
+    font-family: 'Abril Fatface', cursive;
+    padding-left: 10px;
+    font-size: 60px;
+}
+.big-Header{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.small-Header{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .flexible{
     display: flex;
 }
 .half-width{
     width: 50%;
+}
+.forty{
+    width: 40%;
+}
+.sixty{
+    width: 60%;
 }
 .full-area{
     width: 100%;
@@ -22,13 +37,13 @@ p{
     margin: 150px;
 }
 .left-border{
-    border-left: 5px solid salmon;
+    border-left: 5px solid rgb(19, 23, 247);
     border-radius: 5px;
 }
 .button-link{
     text-decoration: none;
     padding: 10px 40px;
-    background-color: salmon;
+    background-color: rgb(19, 23, 247);
     color: white;
     border-radius: 5px;
 }
@@ -37,7 +52,7 @@ p{
     margin-bottom: 30px;
 }
 .color-orange{
-    color: orange;
+    color: rgb(116, 118, 230);
 }
 .text-center{
     text-align: center;
@@ -61,9 +76,31 @@ p{
     background-color: rgb(255, 201, 181);
 }
 .image-size{
-    width: 80%;
+    width: 90%;
     border-radius: 25px;
 }
 .left-padding{
     padding-left: 5%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer h1{
+    font-family: 'Lobster Two', cursive;
+}
+.color-orangered{
+    color: rgb(19, 23, 247);
+}
+.shadowBox{
+    box-shadow: 5px 5px 30px 10px rgb(159, 165, 160);
+}
+.topPadding{
+    padding-top: 5%;
+}
+.left-margin{
+    margin-left: 25%;
 }
