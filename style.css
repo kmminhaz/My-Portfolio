@@ -105,12 +105,12 @@ footer h1{
     margin-left: 25%;
 }
 .github-section{
-    background-image: url("images/background/bluish-background.png");
+    background-image: url("Images/background/bluish-background.png");
     background-repeat: no-repeat;
     background-position: left;
 }
 .linkedin-section{
-    background-image: url("images/background/bluish-background.png");
+    background-image: url("Images/background/bluish-background.png");
     background-repeat: no-repeat;
     background-position: right;
 }
